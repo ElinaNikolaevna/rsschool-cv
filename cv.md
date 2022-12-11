@@ -20,4 +20,6 @@ I have no experience in front-end development.
 Graduated Bauman Moscow State Technical University at 2014, specialties - Computer systems and Industrial design.
 Completed courses on full stack development, combining web design and the basics of front-end programming.
 
+## English language
+English level - A2
 
