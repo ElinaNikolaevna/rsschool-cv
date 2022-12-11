@@ -13,4 +13,11 @@ I graduated BMSTU in 2014 in two different specialtes - Computer systems and Ind
 ## Skills
 Basics of programming.
 
+## Work experience
+I have no experience in front-end development.
+
+## Education
+Graduated Bauman Moscow State Technical University at 2014, specialties - Computer systems and Industrial design.
+Completed courses on full stack development, combining web design and the basics of front-end programming.
+
 
