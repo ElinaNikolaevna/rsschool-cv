@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    color:#662225;
+  }
+
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+    transition: .3s;
+  }
+
+  .nav-link:hover {
+    font-size: 22px;
+    color:#A43820;
+  }
+
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .section {
+    width: 50%;
+    border-bottom: 2px solid #896E69;
+    padding: 10px;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  .header {
+    background-color: #FFA577;
+  }
+
+  .body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.7;
+  }
+
+  .section-title {
+    color: #662225;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+
+  #profile {
+    flex-wrap: nowrap;
+    width:100%;
+  }
+
+  .main-title {
+    font-size: 32px;
+    letter-spacing: 0;
+  }
+
+  .profile-photo {
+    width: 130px;
+  }
+
+  .profile-section {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .footer-item {
+    width: 15%;
+  }
+
+  .school-link {
+    background-image: url(./assets/rs_school_js.svg);
+    background-repeat: no-repeat;
+  }
+
+  .github-link {
+    background-image: url(./assets/GitHub.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
