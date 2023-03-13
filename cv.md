@@ -35,10 +35,10 @@ let result = 0;
 
 ## Work experience
 * Plants (learning project at RSSchool Stage 0)
-[https://rolling-scopes-school.github.io/elinanikolaevna-JSFEPRESCHOOL2022Q4/plants/](Ссылка на проект Plants)
+[Ссылка на проект Plants](https://rolling-scopes-school.github.io/elinanikolaevna-JSFEPRESCHOOL2022Q4/plants/)
 
 * Momentum (learning project at RSSchool Stage 0)
-[https://rolling-scopes-school.github.io/elinanikolaevna-JSFEPRESCHOOL2022Q4/momentum/](Ссылка на проект Momentum)
+[Ссылка на проект Momentum](https://rolling-scopes-school.github.io/elinanikolaevna-JSFEPRESCHOOL2022Q4/momentum/)
 
 ## Education
 Graduated Bauman Moscow State Technical University at 2014, specialties - Computer systems and Industrial design.
